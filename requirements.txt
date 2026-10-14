@@ -1,0 +1,2 @@
+# lookupPort 仅用 Python 标准库，无第三方依赖。
+# GUI 模式需要 tkinter（Windows/macOS 自带；Debian/Ubuntu: sudo apt install python3-tk）
